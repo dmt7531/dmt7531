@@ -1,6 +1,6 @@
 
 ### 🚀 About Me:
-<img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="230px" align="right" > 
+<img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="235px" align="right" > 
 
 
 Hello! My name is **Dmitry Ovsyannikov** and I'm an experienced **Android developer** with a passion for building innovative and user-friendly mobile applications. I am a big fan of Clean Architecture and I always strive to implement its principles in my projects.
