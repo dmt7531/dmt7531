@@ -1,8 +1,10 @@
 
 
-<img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="300px" align="right" > 
+<img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="250px" align="right" > 
 
-### <img align="center" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> Android Developer  
+### 🚀 About Me
+
+Hello and welcome to my Github page! I'm an experienced Android developer with a passion for building innovative and user-friendly mobile applications. On this page, you'll find a collection of my open-source projects, which I've developed to showcase my skills and contribute to the wider Android community
 
 ### 🛠 Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
