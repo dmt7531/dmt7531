@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Hello and welcome to my Github page! I'm an experienced Android developer with a passion for building innovative and user-friendly mobile applications. On this page, you'll find a collection of my open-source projects, which I've developed to showcase my skills and contribute to the wider Android community
+Hello and welcome to my Github page! I'm an experienced Android developer with a passion for building innovative and user-friendly mobile applications. I am a big fan of Clean Architecture and I always strive to implement its principles in my Android projects. I strongly believe that a well-designed architecture is a key factor for creating scalable, maintainable and testable applications
 
 ### 🛠 Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -17,6 +17,12 @@ Hello and welcome to my Github page! I'm an experienced Android developer with a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+— Clean Architecture + MVVM
+— Android Jetpack: View Binding, LiveData, Navigation, ViewModel, Room
+— Dependency Injection: Dagger2, Hilt, Koin
+— Networking: Retrofit, OkHttp, Picasso, Glide, Fresco, Coil
+— Kotlin Coroutines + Flow
+— SQL
 
 
 
