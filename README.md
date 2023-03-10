@@ -1,6 +1,4 @@
-
-
-<img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="250px" align="right" > 
+<img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="240px" align="right" > 
 
 ### 🚀 About Me:
 
