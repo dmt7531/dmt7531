@@ -17,7 +17,7 @@
 
 
 <p>
-   <a href="https://github-readme-stats.vercel.app/api?username=dmt7531&show_icons=true&theme=dracula&count_private=true">
+   <a href="https://github-readme-stats.vercel.app/api?username=dmt7531&theme=dark&show_icons=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=dmt7531&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/dmt7531/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmt7531&layout=compact"/></a>
