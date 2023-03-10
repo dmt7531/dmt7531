@@ -1,6 +1,6 @@
 ### 🚀 About Me: 
 
-Hello! My name is **Dmitry Ovsyannikov** and I'm an experienced **Android developer** with a passion for building innovative and user-friendly mobile applications. I am a big fan of **Clean Architecture** and I always strive to implement its principles in my projects.
+Hello! My name is **Dmitry Ovsyannikov** and I'm an **Android developer** with a passion for building innovative and user-friendly mobile applications. I am a big fan of **Clean Architecture** and I always strive to implement its principles in my projects.
 
 ### 🛠 Skills and Tools:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
