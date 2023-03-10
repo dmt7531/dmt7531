@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Hello and welcome to my Github page! I'm an experienced Android developer with a passion for building innovative and user-friendly mobile applications. I am a big fan of Clean Architecture and I always strive to implement its principles in my Android projects. I strongly believe that a well-designed architecture is a key factor for creating scalable, maintainable and testable applications
+Hello! My name is Dmitry Ovsyannikov and I'm an experienced Android developer with a passion for building innovative and user-friendly mobile applications. I am a big fan of Clean Architecture and I always strive to implement its principles in my projects.
 
 ### 🛠 Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
