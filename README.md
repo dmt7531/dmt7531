@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="250px" align="right" > 
 
-### 🚀 About Me
+### 🚀 About Me:
 
 Hello! My name is **Dmitry Ovsyannikov** and I'm an experienced **Android developer** with a passion for building innovative and user-friendly mobile applications. I am a big fan of Clean Architecture and I always strive to implement its principles in my projects.
 
@@ -17,12 +17,10 @@ Hello! My name is **Dmitry Ovsyannikov** and I'm an experienced **Android develo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
- 
  ### 🔍 Links:
   <a href = "https://t.me/sdk_pro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dmtwrk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href= "https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 
 
 <p>
